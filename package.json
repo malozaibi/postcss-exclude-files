@@ -24,7 +24,7 @@
   "repository": "anyley/postcss-exclude-files",
   "dependencies": {
     "multimatch": "^2.1.0",
-    "postcss": "^7.0.5"
+    "postcss": "^8.4.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
